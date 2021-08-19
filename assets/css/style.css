@@ -4,10 +4,13 @@
     margin: 0;
 }
 
+/* set background color */
 body {
     background-color: #d9dcd6;
 }
+/* background color set */
 
+/* set header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +53,9 @@ p {
     font-size: 16px;
 }
 
+/* header has been set */
+
+/* Add Hero Image */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +64,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* Hero image added end*/
 
 .float-left {
     float: left;
